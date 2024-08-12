@@ -1,0 +1,46 @@
+*{
+    background-color: yellow;
+   
+}
+#one{
+    width:400px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 10px 10px 25px black;
+    margin-left: 300px;
+    margin-top: 150px;
+    border-radius: 20px;
+}
+img{
+    height: 200px;
+    width: 300px;
+    border-radius:20px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+button{
+    height: 30px;
+    width: 100px;
+    margin-left: 50px;
+    border: 2px solid yellow;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+h6{
+    background-color: white;
+    margin-left: 50px;
+    font-family: monospace;
+    font-size: 15px;
+    margin-top: 10px;
+    color: grey;
+}
+h3{
+   background-color: white;
+   margin-left: 50px;
+   margin-top: 10px;
+}
+p{
+    background-color: white;
+    margin-left: 50px;
+    color: gray;
+}
